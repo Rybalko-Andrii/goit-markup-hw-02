@@ -2,8 +2,6 @@ body {
   font-family: Roboto, sans-serif;
   background: #fff;
   color: #434455;
-  width: 1440px;
-  height: 3300px;
 }
 
 .logo-top {
@@ -51,8 +49,6 @@ body {
 
 .wrapper {
   background: #2e2f42;
-  width: 1440px;
-  height: 600px;
 }
 
 .wrapper-title {
