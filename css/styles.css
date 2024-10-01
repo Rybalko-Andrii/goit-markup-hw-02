@@ -23,7 +23,7 @@ body {
   color: #2e2f42;
 }
 
-.nav-link-studio {
+.nav-link-page {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -31,7 +31,7 @@ body {
   color: #2e2f42;
 }
 
-.nav-link-studio:hover {
+.nav-link-page:hover {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -39,7 +39,7 @@ body {
   color: #404bbf;
 }
 
-.nav-link-studio:active {
+.nav-link-page:active {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
