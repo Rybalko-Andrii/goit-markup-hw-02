@@ -67,7 +67,7 @@ body {
   font-style: normal;
 }
 
-.contacts-mail {
+.contacts-link {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -76,7 +76,7 @@ body {
   font-style: normal;
 }
 
-.contacts-mail:hover {
+.contacts-link:hover {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -84,27 +84,7 @@ body {
   color: #404bbf;
 }
 
-.contacts-mail:focus {
-  color: #404bbf;
-}
-
-.contacts-tel {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-  font-style: normal;
-}
-.contacts-tel:hover {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #404bbf;
-}
-
-.contacts-tel:focus {
+.contacts-link:focus {
   color: #404bbf;
 }
 
@@ -115,7 +95,7 @@ body {
 .wrapper-title {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
@@ -127,6 +107,16 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  background-color: #4d5ae5;
+  cursor: pointer;
+}
+
+.wrapper-button:hover {
+  background-color: #404bbf;
+}
+
+.wrapper-button:focus {
+  background-color: #404bbf;
 }
 
 .hero-title {
